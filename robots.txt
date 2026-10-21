@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# After you know your domain, add: Sitemap: https://YOUR-DOMAIN/sitemap.xml
